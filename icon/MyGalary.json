@@ -3,8 +3,9 @@
 "description":"Design by myself.", 
 "icons":
 [
-	{"name":"catfly", "url":"https:\/\/raw.githubusercontent.com\/Mingtha\/Mingtha\/main\/icon\/catfly.png"},  
- 	{"name":"sanfen", "url":"https:\/\/raw.githubusercontent.com\/Mingtha\/Mingtha\/main\/icon\/sanfen.png"}, 
-	{"name":"yiyuan", "url":"https:\/\/raw.githubusercontent.com\/Mingtha\/Mingtha\/main\/icon\/yiyuan.png"}
+	{"name":"CN", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Policy-Country\/CN.png"},  
+	{"name":"catfly", "url":"https:\/\/raw.githubusercontent.com\/Mingtha\/Mingtha/main\/icon\/catfly.png"},  
+ 	{"name":"sanfen", "url":"https:\/\/raw.githubusercontent.com\/Mingtha\/Mingtha/main\/icon\/sanfen.png"}, 
+	{"name":"yiyuan", "url":"https:\/\/raw.githubusercontent.com\/Mingtha\/Mingtha/main\/icon\/yiyuan.png"}
 ]
 }
