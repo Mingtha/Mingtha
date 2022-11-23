@@ -6,5 +6,11 @@
 	{"name":"catfly", "url":"https:\/\/raw.githubusercontent.com\/Mingtha\/Mingtha/main\/icon\/catfly.png"},  
  	{"name":"sanfen", "url":"https:\/\/raw.githubusercontent.com\/Mingtha\/Mingtha/main\/icon\/sanfen.png"}, 
 	{"name":"yiyuan", "url":"https:\/\/raw.githubusercontent.com\/Mingtha\/Mingtha/main\/icon\/yiyuan.png"},
+	{"name":"AdBlock", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Policy-Filter\/AdBlock.png"},
+	{"name":"Reject", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Policy-Filter\/Reject.png"},
+	{"name":"BGP", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Policy-Filter\/BGP.png"},
+	{"name":"DIA", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Policy-Filter\/DIA.png"},
+	{"name":"IEPL", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Policy-Filter\/IEPL.png"},
+	{"name":"IPLC", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Policy-Filter\/IPLC.png"},
 ]
 }
